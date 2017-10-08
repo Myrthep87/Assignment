@@ -1,7 +1,6 @@
 Curriculum Vitae
 ==============
-
-<img src=C:\Users\Gebruiker\Pictures\Myrthe.jpg>
+\C:\Users\Gebruiker\Pictures\Myrthe.jpg\
 
 Personal data
 -------------
