@@ -1,7 +1,7 @@
 Curriculum Vitae
 ==============
 
-<img src="http://ibb.co/ewgevb">
+<img src="http://thumb.ibb.co/ewgevb/Myrthe.jpg">
 
 Personal data
 -------------
