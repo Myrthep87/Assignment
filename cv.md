@@ -1,6 +1,8 @@
 Curriculum Vitae
 ==============
 
+<img src=C:\Users\Gebruiker\Pictures\Myrthe.jpg>
+
 Personal data
 -------------
 Name:		Myrthe Peeters
