@@ -1,7 +1,7 @@
 Curriculum Vitae
 ==============
 
-<img scr=C:/Users/Gebruiker/Pictures/>
+<img scr=http://ibb.co/ewgevb>
 
 Personal data
 -------------
