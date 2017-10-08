@@ -1,7 +1,7 @@
 Curriculum Vitae
 ==============
 
-<img scr=C:\Users\Gebruiker\Pictures\Myrthe.jpg>
+[Myrthe Peeters](C:\Users\Gebruiker\Pictures\Myrthe.jpg)
 
 Personal data
 -------------
