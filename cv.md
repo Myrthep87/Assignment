@@ -1,5 +1,5 @@
 Curriculum Vitae
-================
+==============
 
 Personal data
 -------------
