@@ -3,12 +3,12 @@ Curriculum Vitae
 
 Personal data
 -------------
-Name:		Myrthe Peeters
-Address:	Pastoor Stassenstraat 29
-City:		Venlo
-Mobile: 	0614223021
-E-mail:		myrthepeeters@home.nl
-Date of Birth:	02 March 1995 
+#####Name:		Myrthe Peeters
+#####Address:	Pastoor Stassenstraat 29
+#####City:		Venlo
+#####Mobile: 	0614223021
+#####E-mail:		myrthepeeters@home.nl
+#####Date of Birth:	02 March 1995 
 
 Profile
 -------
